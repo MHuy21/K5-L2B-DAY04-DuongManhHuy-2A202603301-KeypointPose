@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202603301",
+ "ten": "DuongManhHuy",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "mhuy04",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000019754.jpg",
+  "000000021235.jpg",
+  "000000057978.jpg",
+  "000000194027.jpg",
+  "000000349521.jpg",
+  "000000220045.jpg",
+  "000000393909.jpg",
+  "000000469061.jpg",
+  "000000163118.jpg",
+  "000000359340.jpg",
+  "000000167027.jpg",
+  "000000542160.jpg"
+ ],
+ "faces": [
+  "face_145751.jpg",
+  "face_257657.jpg",
+  "face_421231.jpg",
+  "face_105668.jpg",
+  "face_415073.jpg",
+  "face_342273.jpg",
+  "face_219250.jpg",
+  "face_333134.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 14,
+   "job_id": 14,
+   "task_name": "persons-DuongManhHuy"
+  },
+  "faces": {
+   "task_id": 15,
+   "job_id": 15,
+   "task_name": "faces-DuongManhHuy"
+  }
+ }
+}
